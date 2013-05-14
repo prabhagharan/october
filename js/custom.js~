@@ -948,11 +948,10 @@ jQuery(document).ready(function($) {
 		if( $map.length ) {
 
 			$map.gMap({
-				address: 'wakad chowk, pune, India',
-				zoom: 5,
+				address: 'Bhakthi Genesis, wakad, pune, India',
+				zoom: 16,
 				markers: [
-					{ 'address' : 'wakad chowk, pune, India' },
-					{ 'address' : 'chennai, India' }
+					{ 'address' : 'Bhakthi Genesis, wakad, pune, India' }
 				]
 			});
 
